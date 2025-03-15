@@ -22,22 +22,21 @@ The dataset used for this analysis contained sales data, customer information, p
 The pie chart represents the sales distribution across different customer segments: Consumer, Corporate, and Home Office. This visualization helps identify the largest revenue-generating segment and understand which customer group contributes most to the total sales.
 From the analysis, it is clear that some segments perform better than others. Understanding these variations allows businesses to optimize marketing strategies and focus on high-value customer groups.
 
-# 2. Sales by Order Date (Line Chart)
+2. Sales by Order Date (Line Chart)
 The line chart showcases the trend of total sales over time based on the Order Date. This visualization helps identify seasonal sales patterns, growth trends, and fluctuations in revenue. By analyzing this data, businesses can anticipate peak sales periods, adjust inventory, and plan sales strategies accordingly.
 
-# 3. Sales by Sub-Category (Bar Chart)
+3. Sales by Sub-Category (Bar Chart)
 The bar chart displays the sales performance of various product sub-categories. This helps in identifying top-performing and underperforming products. Businesses can use this insight to make informed decisions regarding product promotions, inventory management, and future product investments.
 For example, if a particular category is consistently underperforming, the company can analyze the reasons behind it—whether due to low demand, high competition, or pricing issues—and take corrective actions.
 
-# 4. Sales by State (Map Visualization)
+4. Sales by State (Map Visualization)
 The map visualization provides a geographic representation of sales across different states. This allows businesses to analyze regional sales performance, identify high-revenue areas, and target potential markets for expansion.
-
 Geographical insights are crucial for understanding how location influences sales. If certain states have significantly lower sales, businesses can adjust their marketing efforts to boost performance in those regions.
 
-# 5. Sales by Region (Donut Chart)
+5. Sales by Region (Donut Chart)
 The donut chart compares sales across different regions (East, West, Central, and South). This visualization helps in regional performance comparison and enables businesses to focus on high-revenue areas while improving strategies for underperforming regions.
 
-# 6. Date Slicer (Interactive Filtering)
+6. Date Slicer (Interactive Filtering)
 One of the most important features added to the dashboard is the Date Slicer. This allows users to filter sales data based on specific time periods. By selecting different date ranges, users can analyze trends over time and observe changes in sales patterns during specific months or years.
 
 # Conclusion
